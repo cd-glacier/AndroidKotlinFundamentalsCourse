@@ -16,6 +16,9 @@ class MainActivity : AppCompatActivity() {
         val rollButton: Button = findViewById(R.id.roll_button)
         rollButton.setOnClickListener { rollDice() }
 
+        val clearButton: Button = findViewById(R.id.clear_button)
+        clearButton.setOnClickListener { clearDice() }
+
         diceImage = findViewById(R.id.dice_image)
 
         /*
@@ -38,6 +41,10 @@ class MainActivity : AppCompatActivity() {
         }
 
         diceImage.setImageResource(drawableResouce)
+    }
+
+    private fun clearDice() {
+        diceImage.setImageResource(R.drawable.empty_dice)
     }
 
     /*
