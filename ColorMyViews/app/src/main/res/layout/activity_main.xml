@@ -22,4 +22,16 @@
             app:layout_constraintTop_toTopOf="parent"
             />
 
+    <TextView
+            android:id="@+id/boe_two_text"
+            style="@style/whiteBox"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/box_one_text"
+            android:text="@string/box_two"
+            />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
