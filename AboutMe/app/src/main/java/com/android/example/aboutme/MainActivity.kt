@@ -8,27 +8,30 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import androidx.databinding.DataBindingUtil
+import com.android.example.aboutme.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
+    private lateinit var binding: ActivityMainBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
 
-        findViewById<Button>(R.id.done_button).setOnClickListener {
+        binding.doneButton.setOnClickListener {
             updateNickname(it)
         }
 
-        findViewById<TextView>(R.id.nickname_text).setOnClickListener {
+        binding.nicknameText.setOnClickListener {
             makeNicknameEditable(it)
         }
     }
 
     private fun updateNickname(doneButton: View) {
-        val editText: EditText = findViewById(R.id.nickname_edit)
-        val nicknameTextView: TextView = findViewById(R.id.nickname_text)
+        val editText: EditText = binding.nicknameEdit
+        val nicknameTextView: TextView = binding.nicknameText
 
-        nicknameTextView.text = editText.text
+        nicknameTextView.text = editText.text.toString()
         editText.visibility = View.GONE
         doneButton.visibility = View.GONE
         nicknameTextView.visibility = View.VISIBLE
@@ -40,8 +43,8 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun makeNicknameEditable(nickNameTextView: View) {
-        val editText: EditText = findViewById(R.id.nickname_edit)
-        val doneButton: Button = findViewById(R.id.done_button)
+        val editText: EditText = binding.nicknameEdit
+        val doneButton: Button = binding.doneButton
 
         editText.visibility = View.VISIBLE
         doneButton.visibility = View.VISIBLE
