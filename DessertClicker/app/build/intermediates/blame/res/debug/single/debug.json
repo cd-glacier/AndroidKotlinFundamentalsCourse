@@ -4,20 +4,20 @@
         "source": "/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/res/mipmap-mdpi/ic_dessert_clicker.png"
     },
     {
-        "merged": "/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_dessert_clicker_round.png.flat",
-        "source": "/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/res/mipmap-xxxhdpi/ic_dessert_clicker_round.png"
-    },
-    {
         "merged": "/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/build/intermediates/res/merged/debug/menu_main_menu.xml.flat",
         "source": "/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/res/menu/main_menu.xml"
     },
     {
-        "merged": "/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_dessert_clicker.png.flat",
-        "source": "/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/res/mipmap-xhdpi/ic_dessert_clicker.png"
+        "merged": "/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_dessert_clicker_round.png.flat",
+        "source": "/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/res/mipmap-xxxhdpi/ic_dessert_clicker_round.png"
     },
     {
         "merged": "/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/build/intermediates/res/merged/debug/drawable_froyo.xml.flat",
         "source": "/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/res/drawable/froyo.xml"
+    },
+    {
+        "merged": "/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_dessert_clicker.png.flat",
+        "source": "/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/res/mipmap-xhdpi/ic_dessert_clicker.png"
     },
     {
         "merged": "/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/build/intermediates/res/merged/debug/drawable_donut.xml.flat",

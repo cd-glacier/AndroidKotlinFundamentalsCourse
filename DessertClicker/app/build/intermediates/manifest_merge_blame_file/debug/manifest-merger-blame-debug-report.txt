@@ -26,37 +26,39 @@
 24-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml
 25
 26    <application
-26-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:20:5-34:19
-27        android:allowBackup="true"
-27-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:21:9-35
-28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-28-->[androidx.core:core:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/89e8cec8863afa7e7ff3ff449e9ce909/core-1.0.0/AndroidManifest.xml:22:18-86
-29        android:debuggable="true"
-30        android:icon="@mipmap/ic_dessert_clicker"
-30-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:22:9-50
-31        android:label="@string/app_name"
-31-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:23:9-41
-32        android:roundIcon="@mipmap/ic_dessert_clicker_round"
-32-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:24:9-61
-33        android:supportsRtl="true"
-33-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:25:9-35
-34        android:testOnly="true"
-35        android:theme="@style/AppTheme" >
-35-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:26:9-40
-36        <activity android:name="com.example.android.dessertclicker.MainActivity" >
-36-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:27:9-33:20
-36-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:27:19-81
-37            <intent-filter>
-37-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:28:13-32:29
-38                <action android:name="android.intent.action.MAIN" />
-38-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:29:17-69
-38-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:29:25-66
-39
-40                <category android:name="android.intent.category.LAUNCHER" />
-40-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:31:17-77
-40-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:31:27-74
-41            </intent-filter>
-42        </activity>
-43    </application>
-44
-45</manifest>
+26-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:21:5-37:19
+27        android:name="com.example.android.dessertclicker.ClickerApplication"
+27-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:22:13-47
+28        android:allowBackup="true"
+28-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:23:13-39
+29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+29-->[androidx.core:core:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/89e8cec8863afa7e7ff3ff449e9ce909/core-1.0.0/AndroidManifest.xml:22:18-86
+30        android:debuggable="true"
+31        android:icon="@mipmap/ic_dessert_clicker"
+31-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:24:13-54
+32        android:label="@string/app_name"
+32-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:25:13-45
+33        android:roundIcon="@mipmap/ic_dessert_clicker_round"
+33-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:26:13-65
+34        android:supportsRtl="true"
+34-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:27:13-39
+35        android:testOnly="true"
+36        android:theme="@style/AppTheme" >
+36-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:28:13-44
+37        <activity android:name="com.example.android.dessertclicker.MainActivity" >
+37-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:30:9-36:20
+37-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:30:19-81
+38            <intent-filter>
+38-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:31:13-35:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:32:17-69
+39-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:32:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:34:17-77
+41-->/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:34:27-74
+42            </intent-filter>
+43        </activity>
+44    </application>
+45
+46</manifest>
