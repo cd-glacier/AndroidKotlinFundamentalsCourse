@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.databinding:databinding-adapters:3.6.3] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/786933e6cd28e903ddf73296405cf73b/databinding-adapters-3.6.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.6.3] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/bcb1f8efb708438af77e282cbd8eee0a/databinding-runtime-3.6.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/09afabb69282cbee818596dfb8daf6d6/constraintlayout-2.0.0-alpha2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/ff8fc438268088f0a3b1327f3358d6d6/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:viewbinding:3.6.3] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/06963420eca11b1a650638994f7ef772/jetified-viewbinding-3.6.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/f036f27c6fb83b63cf1b4eebe8cc8f35/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/5f84710e025845646f70da42874a6167/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/8653265a2a4a20a8b9464b2342c6bb58/recyclerview-1.0.0-rc01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/73dd357fefc15216468f1c3c75510d1a/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/47d653268dec1da218d10d5f1c659a4e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/8c688696f28b6193f47db6050be92ff8/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/7b474c596e91543995e7c065c8ce31af/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/9e8d9b376329a127c7a012261dec0807/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/bc8137cff0432a4af7fdb49466a20326/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/0ec74fea501a5b2f94f6ec4b96213818/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/197ad07904bd50003d49eeb32e37274e/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/7270191f64b3d57dfd321f2c92112106/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/87ae3e8ee6e44fe13e94d124b4e5be27/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/adfb45e70bf7df618df4f70ef44b4e34/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/89e8cec8863afa7e7ff3ff449e9ce909/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/dd62500bb757e5c1c0475de42dbc46ed/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/af91364fa69960197518988c6b92342e/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/f024767772235845c08099038c0e766a/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/f2355c796900aacbb9c0b722f888c5e7/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/f71cb6f8bd87ff3f3e3f515cbafd069c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/76c7c9093bc16b521e6a9fad42d68ee6/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/ae7ee746c563702b6c51926d3ed3f5d1/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/b99715333b5e793a44ee18f5508a8994/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/29c8d46e513cd05b04237707ba4a4a0c/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/4236abce0297a84ee9f91dfe1aaf2bd6/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/60ce063d0f61d0b6ec8530764e62ac84/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:17:1-36:12
+	package
+		ADDED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:18:5-49
+		INJECTED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:17:1-36:12
+		INJECTED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:17:1-36:12
+		INJECTED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:20:5-34:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/09afabb69282cbee818596dfb8daf6d6/constraintlayout-2.0.0-alpha2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/09afabb69282cbee818596dfb8daf6d6/constraintlayout-2.0.0-alpha2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/89e8cec8863afa7e7ff3ff449e9ce909/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/89e8cec8863afa7e7ff3ff449e9ce909/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/af91364fa69960197518988c6b92342e/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/af91364fa69960197518988c6b92342e/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/89e8cec8863afa7e7ff3ff449e9ce909/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:24:9-61
+	android:icon
+		ADDED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:22:9-50
+	android:allowBackup
+		ADDED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:26:9-40
+activity#com.example.android.dessertclicker.MainActivity
+ADDED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:27:19-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.6.3] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/786933e6cd28e903ddf73296405cf73b/databinding-adapters-3.6.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.6.3] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/786933e6cd28e903ddf73296405cf73b/databinding-adapters-3.6.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.3] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/bcb1f8efb708438af77e282cbd8eee0a/databinding-runtime-3.6.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.3] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/bcb1f8efb708438af77e282cbd8eee0a/databinding-runtime-3.6.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/09afabb69282cbee818596dfb8daf6d6/constraintlayout-2.0.0-alpha2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/09afabb69282cbee818596dfb8daf6d6/constraintlayout-2.0.0-alpha2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/ff8fc438268088f0a3b1327f3358d6d6/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/ff8fc438268088f0a3b1327f3358d6d6/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:3.6.3] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/06963420eca11b1a650638994f7ef772/jetified-viewbinding-3.6.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:3.6.3] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/06963420eca11b1a650638994f7ef772/jetified-viewbinding-3.6.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/f036f27c6fb83b63cf1b4eebe8cc8f35/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/f036f27c6fb83b63cf1b4eebe8cc8f35/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/5f84710e025845646f70da42874a6167/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/5f84710e025845646f70da42874a6167/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/8653265a2a4a20a8b9464b2342c6bb58/recyclerview-1.0.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/8653265a2a4a20a8b9464b2342c6bb58/recyclerview-1.0.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/73dd357fefc15216468f1c3c75510d1a/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/73dd357fefc15216468f1c3c75510d1a/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/47d653268dec1da218d10d5f1c659a4e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/47d653268dec1da218d10d5f1c659a4e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/8c688696f28b6193f47db6050be92ff8/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/8c688696f28b6193f47db6050be92ff8/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/7b474c596e91543995e7c065c8ce31af/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/7b474c596e91543995e7c065c8ce31af/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/9e8d9b376329a127c7a012261dec0807/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/9e8d9b376329a127c7a012261dec0807/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/bc8137cff0432a4af7fdb49466a20326/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/bc8137cff0432a4af7fdb49466a20326/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/0ec74fea501a5b2f94f6ec4b96213818/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/0ec74fea501a5b2f94f6ec4b96213818/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/197ad07904bd50003d49eeb32e37274e/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/197ad07904bd50003d49eeb32e37274e/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/7270191f64b3d57dfd321f2c92112106/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/7270191f64b3d57dfd321f2c92112106/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/87ae3e8ee6e44fe13e94d124b4e5be27/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/87ae3e8ee6e44fe13e94d124b4e5be27/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/adfb45e70bf7df618df4f70ef44b4e34/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/adfb45e70bf7df618df4f70ef44b4e34/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/89e8cec8863afa7e7ff3ff449e9ce909/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/89e8cec8863afa7e7ff3ff449e9ce909/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/dd62500bb757e5c1c0475de42dbc46ed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/dd62500bb757e5c1c0475de42dbc46ed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/af91364fa69960197518988c6b92342e/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/af91364fa69960197518988c6b92342e/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/f024767772235845c08099038c0e766a/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/f024767772235845c08099038c0e766a/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/f2355c796900aacbb9c0b722f888c5e7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/f2355c796900aacbb9c0b722f888c5e7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/f71cb6f8bd87ff3f3e3f515cbafd069c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/f71cb6f8bd87ff3f3e3f515cbafd069c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/76c7c9093bc16b521e6a9fad42d68ee6/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/76c7c9093bc16b521e6a9fad42d68ee6/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/ae7ee746c563702b6c51926d3ed3f5d1/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/ae7ee746c563702b6c51926d3ed3f5d1/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/b99715333b5e793a44ee18f5508a8994/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/b99715333b5e793a44ee18f5508a8994/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/29c8d46e513cd05b04237707ba4a4a0c/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/29c8d46e513cd05b04237707ba4a4a0c/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/4236abce0297a84ee9f91dfe1aaf2bd6/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/4236abce0297a84ee9f91dfe1aaf2bd6/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/60ce063d0f61d0b6ec8530764e62ac84/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hyoga-yoshida/.gradle/caches/transforms-2/files-2.1/60ce063d0f61d0b6ec8530764e62ac84/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/src/main/AndroidManifest.xml
