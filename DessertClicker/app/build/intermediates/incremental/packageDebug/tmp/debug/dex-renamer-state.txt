@@ -1,4 +1,4 @@
-#Tue May 12 16:53:38 JST 2020
+#Tue May 12 18:13:52 JST 2020
 base.0=/Users/hyoga-yoshida/w/src/github.com/g-hyoga/AndroidKotlinFundamentalsCourse/DessertClicker/app/build/intermediates/dex/debug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
