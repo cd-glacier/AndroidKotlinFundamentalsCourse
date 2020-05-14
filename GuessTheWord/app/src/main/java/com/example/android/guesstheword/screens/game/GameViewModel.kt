@@ -17,6 +17,10 @@ class GameViewModel : ViewModel() {
     val score: LiveData<Int>
         get() = _score
 
+    private var _eventGameFinish = MutableLiveData<Boolean>()
+    val eventGameFinish: LiveData<Boolean>
+        get() = _eventGameFinish
+
     // The list of words - the front of the list is the next word to guess
     lateinit var wordList: MutableList<String>
 
@@ -68,7 +72,9 @@ class GameViewModel : ViewModel() {
      * Moves to the next word in the list
      */
     private fun nextWord() {
-        if (!wordList.isEmpty()) {
+        if (wordList.isEmpty()) {
+            onGameFinish()
+        } else {
             //Select and remove a word from the list
             _word.value = wordList.removeAt(0)
         }
@@ -83,5 +89,13 @@ class GameViewModel : ViewModel() {
     fun onCorrect() {
         _score.value = (score.value)?.plus(1)
         nextWord()
+    }
+
+    fun onGameFinish() {
+        _eventGameFinish.value = true
+    }
+
+    fun onGameFinishComplete() {
+        _eventGameFinish.value = false
     }
 }
