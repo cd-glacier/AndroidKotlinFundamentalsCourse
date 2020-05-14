@@ -55,7 +55,7 @@ class GameFragment : Fragment() {
         binding.gameViewModel = viewModel
         // Specify the fragment view as the lifecycle owner of the binding.
         // This is used so that the binding can observe LiveData updates
-        binding.lifecycleOwner = viewLifecycleOwner
+        binding.lifecycleOwner = this
 
         viewModel.eventGameFinish.observe(viewLifecycleOwner, Observer { hasFinish ->
             Log.i("GameFragment", "Observe eventGameFinished changed")
