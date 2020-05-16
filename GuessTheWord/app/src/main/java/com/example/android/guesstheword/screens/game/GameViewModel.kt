@@ -4,6 +4,7 @@ import android.os.CountDownTimer
 import android.text.format.DateUtils
 import android.util.Log
 import android.widget.Toast
+import androidx.core.text.trimmedLength
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.Transformations
@@ -36,6 +37,11 @@ class GameViewModel : ViewModel() {
     // The String version of the current time
     val currentTimeString = Transformations.map(currentTime) { time ->
         DateUtils.formatElapsedTime(time)
+    }
+
+    val wordHint = Transformations.map(word) { word ->
+        val randomPosition = (1..word.length).random()
+        "Current word has ${word.length} letters\nThe letter at position ${randomPosition} is ${word.get(randomPosition - 1).toUpperCase()}"
     }
 
     private val timer: CountDownTimer
