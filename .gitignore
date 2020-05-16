@@ -2,3 +2,19 @@ GuessTheWord/.gradle/
 GuessTheWord/.idea/
 GuessTheWord/app/app.iml
 
+TrackMySleepQuality/.gradle
+TrackMySleepQuality/.idea
+TrackMySleepQuolity/*.iml
+TrackMySleepQuolity/.gradle
+TrackMySleepQuolity/local.properties
+TrackMySleepQuolity/.idea/caches
+TrackMySleepQuolity/.idea/libraries
+TrackMySleepQuolity/.idea/modules.xml
+TrackMySleepQuolity/.idea/workspace.xml
+TrackMySleepQuolity/.idea/navEditor.xml
+TrackMySleepQuolity/.idea/assetWizardSettings.xml
+TrackMySleepQuolity/.DS_Store
+TrackMySleepQuolity//build
+TrackMySleepQuolity/captures
+TrackMySleepQuolity/.externalNativeBuild
+TrackMySleepQuolity/.cxx
