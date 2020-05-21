@@ -26,6 +26,8 @@
     <string name="stop">Stop</string>
     <string name="clear">Clear</string>
 
+    <string name="close">Close</string>
+
     <!-- contentDescription strings for quality icons -->
     <string name="quality_0">Sleep Quality 0</string>
     <string name="quality_1">Sleep Quality 1</string>
