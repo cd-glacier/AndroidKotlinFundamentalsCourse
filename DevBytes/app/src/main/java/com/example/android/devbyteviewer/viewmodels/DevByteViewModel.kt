@@ -108,7 +108,6 @@ class DevByteViewModel(application: Application) : AndroidViewModel(application)
      * background thread.
      */
     private fun refreshDataFromNetwork() = viewModelScope.launch {
-
         try {
              val playlist = DevByteNetwork.devbytes.getPlaylist().await()
             _playlist.postValue(playlist.asDomainModel())
@@ -117,6 +116,7 @@ class DevByteViewModel(application: Application) : AndroidViewModel(application)
             _isNetworkErrorShown.value = false
 
         } catch (networkError: IOException) {
+            // delay(2000)
             // Show a Toast error message and hide the progress bar.
             _eventNetworkError.value = true
         }

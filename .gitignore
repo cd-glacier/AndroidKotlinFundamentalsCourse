@@ -54,7 +54,7 @@ DevBytes/.idea/workspace.xml
 DevBytes/.idea/navEditor.xml
 DevBytes/.idea/assetWizardSettings.xml
 DevBytes/.DS_Store
-DevBytes/build
+DevBytes/app/build
 DevBytes/captures
 DevBytes/.externalNativeBuild
 DevBytes/.cxx
