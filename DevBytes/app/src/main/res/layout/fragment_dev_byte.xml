@@ -38,8 +38,6 @@
             app:isNetworkError = "@{safeUnbox(viewModel.eventNetworkError)}"
             app:playlist = "@{viewModel.playlist}"
 
-
-
         android:layout_gravity="center" />
 
         <androidx.recyclerview.widget.RecyclerView
